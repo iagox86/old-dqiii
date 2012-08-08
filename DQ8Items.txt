@@ -1,0 +1,1259 @@
++Sword
+
+Bronze Knife + Bronze Knife = Copper Sword
+
+Who can equip: Hero, Jessica / Sell price: $135 / Attack Power +13
+
+--------------------------------------------------------------------------------
+
+Liquid Metal Sword + Mystifying Mixture + Cowpat = Rusty Old Sword
+
+Who can equip: Hero, Jessica / Sell price: Not sellable / Attack Power +45
+
+--------------------------------------------------------------------------------
+
+Templar's Sword + Holy Talisman = Holy Silver Rapier
+
+Who can equip: Angelo / Sell price: $3,300 / Attack Power +54
+
+--------------------------------------------------------------------------------
+
+Falcon Blade + Meteorite Bracer = Uber Falcon Blade
+
+Who can equip: Hero, Jessica, Angelo / Sell price: $25,000 / Attack Power +55 /
+Attack 2x per round.
+                                                                  
+--------------------------------------------------------------------------------
+
+Holy Silver Rapier + Devil's Tail + Wing of Bat = Fallen Angel Rapier
+
+Who can equip: Angelo / Sell price: $8,500 / Attack Power +61
+
+--------------------------------------------------------------------------------
+
+Zombiesbane + Holy Talisman = Zombie Slayer
+
+Who can equip: Hero / Sell price: $10,000 / Attack Power +65
+
+Effective against Zombie family monsters.
+
+--------------------------------------------------------------------------------
+
+Uber Double-Edge + Devil's Tail = Double-Edged Sword
+
+Who can equip: Hero, Jessica / Sell price: $2,500 / Attack Power +76
+
+Cursed.  Wielder receives some damage when attacking.
+
+--------------------------------------------------------------------------------
+
+Double-Edged Sword + Saint's Ashes + Saint's Ashes = Uber Double-Edge
+
+Who can equip: Hero, Jessica / Sell price: $3,750 / Attack Power +76
+
+--------------------------------------------------------------------------------
+
+Fallen Angel Rapier + Mercury's Bandana + Mercury's Bandana = Mercury's Rapier
+
+Who can equip: Angelo / Sell price: $5,100 / Attack Power +78 Agility +20
+
+--------------------------------------------------------------------------------
+
+Dragonsbane + Mighty Armlet = Dragon Slayer
+
+Who can equip: Hero / Sell price: $22,500 / Attack Power +83
+
+Effective against Dragon-family monsters.
+
+--------------------------------------------------------------------------------
+
+Bastard Sword + Icicle Dirk + Cold Cheese = Blizzard Blade
+
+Who can equip: Hero / Sell price: $10,500 / Attack Power +90
+
+--------------------------------------------------------------------------------
+
+Miracle Sword + Life Bracer = Uber Miracle Sword
+
+Who can equip: Hero, Jessica / Sell price: $1,500 / Attack Power +95
+
+Heal some HP when you attack.
+
+--------------------------------------------------------------------------------
+
+Rune Staff + Light Shield + Shimmering Dress = Shamshir of Light
+
+Who can equip: Angelo / Sell price: $9,000 / Attack Power +110
+
+--------------------------------------------------------------------------------
+
+Rusty Old Sword + Orichalcum + Slime Crown = Liquid Metal Sword
+
+Who can equip: Hero, Jessica, Angelo / Sell price: $5,000 / Attack Power +118
+                                        
+--------------------------------------------------------------------------------
+
+Dragovian Sword + Liquid Metal Sword = Dragovian King Sword
+
+Who can equip: Hero / Sell price: Not sellable / Attack Power +137
+
+--------------------------------------------------------------------------------
+
+
++Spear
+
+
+Cypress Stick + Dagger = Iron Lance
+
+Who can equip: Hero / Sell price: $375 / Attack Power +24
+
+--------------------------------------------------------------------------------
+
+Cypress Stick + Cypress Stick + Iron Lance = Long Spear
+
+Who can equip: Hero / Sell price: $850 / Attack Power +30
+
+--------------------------------------------------------------------------------
+
+Long Spear + Gold Rosary = Holy Lance
+
+Who can equip: Hero / Sell price: $1,350 / Attack Power +34
+
+--------------------------------------------------------------------------------
+
+Partisan + Saint's Ashes = Sandstorm Spear
+
+Who can equip: Hero / Sell price: $5,300 / Attack Power +67
+
+Attempts to inflict Surround all enemies when used as an item in battle.
+
+--------------------------------------------------------------------------------
+
+Poison Needle + Devil's Tail + Battle Fork = Demon Spear
+
+Who can equip: Hero / Sell price: $12,500 / Attack Power +86
+
+--------------------------------------------------------------------------------
+
+
++Boomerang
+
+
+Boomerang + Iron Nail = Reinforced Boomerang
+
+Who can equip: Hero / Sell price: $840 / Attack Power +32 / Hits all enemies
+
+--------------------------------------------------------------------------------
+
+Edged Boomerang + Wing of Bat + Steel Scythe = Razor Wing Boomerang
+
+Who can equip: Hero / Sell price: $1,900 / Attack Power +42 / Hits all enemies.
+
+--------------------------------------------------------------------------------
+
+Swallowtail + Flame Shield = Flametang Boomerang
+
+Who can equip: Hero / Sell price: $7,250 / Attack Power +63 / Hits all enemies.
+
+--------------------------------------------------------------------------------
+
+Razor Wing Boomerang + Metal King Spear = Metal Wing Boomerang
+
+Who can equip: Hero / Sell price: $36,000 / Attack Power +70 / Hits all enemies.
+
+--------------------------------------------------------------------------------
+
+
++Axe
+
+
+Cypress Stick + Stone Hard Hat = Stone Axe
+
+Who can equip: Yangus / Sell price: $275 / Attack Power +20
+
+--------------------------------------------------------------------------------
+
+Iron Axe + Gold Nugget = Golden Axe
+
+Who can equip: Yangus / Sell price: $5,000 / Attack Power +27
+
+--------------------------------------------------------------------------------
+
+Farmer's Scythe + Farmer's Scythe = Iron Axe
+
+Who can equip: Yangus / Sell price: $1,300 / Attack Power +38
+
+--------------------------------------------------------------------------------
+
+Battle Axe + Thief's Key = Bandit Axe
+
+Who can equip: Yangus / Sell price: $6,500 / Attack Power +55
+
+--------------------------------------------------------------------------------
+
+Golden Axe + Moon's Mercy = Moon Axe
+
+Who can equip: Yangus / Sell price: $11,000 / Attack Power +60
+
+--------------------------------------------------------------------------------
+
+Golden Axe + Slime Crown = King Axe
+
+Who can equip: Yangus / Sell price: $8,500 / Attack Power +80
+
+--------------------------------------------------------------------------------
+
+
++Hammer
+
+
+Giant Mallet + Iron Helmet + Iron Helmet = Sledgehammer
+
+Who can equip: Yangus / Sell price: $1,000 / Attack Power +33
+
+--------------------------------------------------------------------------------
+
+War Hammer + Mighty Armlet = Uber War Hammer
+
+Who can equip: Yangus / Sell price: $16,000 / Attack Power +69
+
+--------------------------------------------------------------------------------
+
+Uber War Hammer + Conquerer's Axe + Orichalcum = Megaton Hammer
+
+Who can equip: Yangus / Sell price: $55,500 / Attack Power +108
+
+--------------------------------------------------------------------------------
+
++Scythe
+
+
+Steel Scythe + Poison Moth Knife + Hade's Helm = Hell Scythe
+
+Who can equip: Yangus / Sell price: $5,000 / Attack Power +65 / Can Paralyze an
+enemy.
+
+--------------------------------------------------------------------------------
+
++Dagger
+
+
+Slime Earrings + Agility Ring + Tough Guy Tattoo = Falcon Knife
+
+Who can equip: Jessica / Sell price: $4,400 / Attack Power +34 / Attack 2x per 
+round.
+
+--------------------------------------------------------------------------------
+
+Eagle Dagger + Poison Needle = Assassin's Dagger
+
+Who can equip: Jessica / Sell price: $1,250 / Attack Power +37 / Randomly kills 
+an enemy instantly.
+
+--------------------------------------------------------------------------------
+
+Assassin's Dagger + Devil's Tail = Imp Knife
+
+Who can equip: Jessica / Sell price: $2,250 / Attack Power +52 / Absorb MP when 
+you attack.
+
+--------------------------------------------------------------------------------
+
+
++Whip
+
+
+Devil's Tail + Saint's Ashes = Leather Whip
+
+Who can equip: Jessica / Sell price: $85 / Attack Power +6 / Hits a group of 
+enemies.
+
+--------------------------------------------------------------------------------
+
+Leather Whip + Scale Shield = Snakeskin Whip
+
+Who can equip: Jessica / Sell price: $1,250 / Attack Power +23 / Hits a group 
+of enemies.
+
+--------------------------------------------------------------------------------
+
+Snakeskin Whip + Dragon Scale + Dragon Scale = Dragon Tail Whip
+
+Who can equip: Jessica / Sell price: $7,400 / Attack Power +47 / Hits a group 
+of enemies.
+
+--------------------------------------------------------------------------------
+
+Scourge Whip + Devil's Tail = Demon Whip
+
+Who can equip: Jessica / Sell price: $3,500 / Attack Power +72 / Cursed /  
+Hits a group of enemies.
+
+--------------------------------------------------------------------------------
+
+Demon Whip + Saint's Ashes = Scourge Whip
+
+Who can equip: Jessica / Sell price: $9,250 / Attack Power +99 / Hits a group 
+of enemies.
+
+--------------------------------------------------------------------------------
+
+
++Staff
+
+
+Wizard's Staff + Rockbomb Shard = Magma Staff
+
+Who can equip: Jessica, Angelo / Sell price: $2,500 / Attack Power +28
+
+Casts Bang when used as an item in battle.
+
+--------------------------------------------------------------------------------
+
+Wizard's Staff + Rune Staff = Staff of Anti-Magic
+
+Who can equip: Jessica, Angelo / Sell price: $3,000 / Attack Power +41
+
+Casts Stopspell when used as an item in battle.
+
+--------------------------------------------------------------------------------
+
+Rune Staff + Yggdrasil Leaf + Life Bracer = Staff of Ressurection
+
+Who can equip: Jessica, Angelo / Sell price: $22,500 / Attack Power +77
+
+Casts Zing when used as an item in battle.
+
+--------------------------------------------------------------------------------
+
+
++Bow
+
+
+Short Bow + Chain Whip = Hunter's Bow
+
+or
+
+Cypress Stick + Cypress Stick + Strength Ring = Hunter's Bow
+
+Who can equip: Angelo / Sell price: $850 / Attack Power +30
+
+--------------------------------------------------------------------------------
+
+Hunter's Bow + Garter Belt = Eros' Bow
+
+Who can equip: Angelo / Sell price: $5,800 / Attack Power +45 / Can Confuse an
+enemy.
+
+--------------------------------------------------------------------------------
+
+Eros' Bow + Power Shield = Cheiron's Bow
+
+Who can equip: Angelo / Sell price: $5,800 / Attack Power +63
+
+Heals about 30HP to all party members when used as an item in battle.
+
+--------------------------------------------------------------------------------
+
+Great Bow + Eros' Bow + Cheiron's Bow = Odin's Bow
+
+Who can equip: Angelo / Sell price: $48,000 / Attack Power +125
+
+--------------------------------------------------------------------------------
+
+
++Armor
+
+
+Plain Clothes + Plain Clothes = Wayfarer's Clothes
+
+Who can equip: All characters / Sell price: $35 / Defense Power +7
+
+--------------------------------------------------------------------------------
+
+Bandana + Bandit's Grass Skirt = Boxer Shorts
+
+Who can equip: Yangus / Sell price: $50 / Defense Power +8
+
+--------------------------------------------------------------------------------
+
+Magic Beast Hide + Wayfarer's Clothes = Leather Armor
+
+Who can equip: Hero, Angelo / Sell price: $90 / Defense Power +11
+
+--------------------------------------------------------------------------------
+
+Boxer Shorts + Magic Beast Hide = Leather Kilt
+
+or
+
+Leather Whip + Bandana = Leather Kilt
+
+Who can equip: Yangus / Sell price: $110 / Defense Power +12
+
+--------------------------------------------------------------------------------
+
+Wayfarer's Clothes + Templar's Shield = Templar's Uniform
+
+Who can equip: Angelo / Sell price: $275 / Defense Power +13
+
+--------------------------------------------------------------------------------
+
+Magic Beast Hide + Dancer's Costume = Leather Dress
+
+Who can equip: Jessica / Sell price: $190 / Defense Power +15
+
+--------------------------------------------------------------------------------
+
+Leather Armor + Dragon Scale = Scale Armor
+
+Who can equip: Hero, Angelo / Sell price: $175 / Defense Power +17
+
+--------------------------------------------------------------------------------
+
+Chain Mail + Bronze Shield = Bronze Armor
+
+Who can equip: Hero / Sell price: $420 / Defense Power +24
+
+--------------------------------------------------------------------------------
+
+Iron Shield + Iron Shield = Iron Cuirass
+
+Who can equip: Yangus / Sell price: $500 / Defense Power +25
+
+--------------------------------------------------------------------------------
+
+Magic Beast Hide + Magic Beast Hide = Fur Poncho
+
+Who can equip: Yangus / Sell price: $1,100 / Defense Power +29
+
+Fire and ice attacks against the wearer are reduced by 20 points.
+
+--------------------------------------------------------------------------------
+
+Cloak of Evasion + Boxer Shorts = Robe of Serenity
+
+Who can equip: Jessica / Sell price: $3,600 / Defense Power +34 / Protects 
+against Sleep
+
+--------------------------------------------------------------------------------
+
+Silk Bustier + Bunny Tail = Bunny Suit
+
+Who can equip: Jessica / Sell price: $1,775 / Defense Power +38
+
+Changes Jessica's appearance when also wearing Fishnet Stockings and Bunny Ears.
+
+--------------------------------------------------------------------------------
+
+Platinum Mail + Devil's Tail = Zombie Mail
+
+or
+
+Silver mail + Zombiesbane = Zombie Mail
+
+Who can equip: Angelo / Sell price: $250 / Defense Power +42 / Cursed.
+
+--------------------------------------------------------------------------------
+
+Iron Cuirass + Silver Platter + Silver Platter = Silver Cuirass
+
+Who can equip: Yangus / Sell price: $1,600 / Defense Power +44
+
+--------------------------------------------------------------------------------
+
+Scholar's Cap + Magic Robe = Sage's Robe
+
+Who can equip: Angelo / Sell price: $11,000 / Defense Power +55
+
+Magic attacks against the wearer are reduced by 25 points.
+
+--------------------------------------------------------------------------------
+
+Magical Mace + Magical Hat + Bandit's Grass Skirt = Magical Skirt
+
+Who can equip: Jessica / Sell price: $3,350 / Defense Power +55
+
+Magic attacks against the wearer are reduced by 2/3.
+
+--------------------------------------------------------------------------------
+
+Full Plate Armor + Ruby of Protection + Prayer Ring = Magic Armor
+
+Who can equip: Hero, Angelo / Sell price: $3,750 / Defense Power +55
+
+Magic attacks against the wearer are reduced by 15 points.
+
+--------------------------------------------------------------------------------
+
+Dancer's Costume + Silver Mail = Dancer's Mail
+
+Who can equip: Angelo / Sell price: $8,200 / Defense Power +57
+
+--------------------------------------------------------------------------------
+
+Silver Mail + Dragon Scale + Dragon Scale = Dragon Mail
+
+Who can equip: Hero, Yangus / Sell price: $6,000 / Defense Power +60
+
+Fire and ice attacks against the wearer are weakened.
+
+--------------------------------------------------------------------------------
+
+Spangled Dress + Ruby of Protection + Gold Bracer = Shimmering Dress
+
+Who can equip: Jessica / Sell price: $8,800 / Defense Power +67
+
+Sometimes reflects spells cast at the wearer ally and enemy.
+
+--------------------------------------------------------------------------------
+
+Magic Armor + Edged Boomerang = Spiked Armor
+
+Who can equip: Hero, Yangus / Sell price: $9,500 / Defense Power +68
+
+When the wearer is attacked, the attacker gets damaged a little.
+
+--------------------------------------------------------------------------------
+
+Zombie Mail + Saint's Ashes = Platinum Mail
+
+Who can equip: Hero, Angelo / Sell price: $4,900 / Defense Power +72
+
+Magic attacks against the wearer are reduced by 15 points.
+
+--------------------------------------------------------------------------------
+
+Flowing Dress + Magical Skirt = Angel Robe
+
+Who can equip: Jessica / Sell price: $25,000 / Defense Power +73
+
+Protects against death spells
+
+--------------------------------------------------------------------------------
+
+Heavy Armor + Bandit Axe + Bandit's Grass Skirt = Bandit Mail
+
+Who can equip: Yangus / Sell price: $7,000 / Defense Power +80
+
+--------------------------------------------------------------------------------
+
+Sage's Robe + Magic water + Nook Grass = Crimson Robe
+
+Who can equip: Jessica, Angelo / Sell price: $11,250 / Defense Power +82
+
+Ice attacks against the wearer are reduced by 20 points.
+
+--------------------------------------------------------------------------------
+
+Cloak of Evasion + Wing of Bat + Devil's Tail = Dark Robe
+
+Who can equip: Yangus / Sell price: $10,500 / Defense Power +87
+
+--------------------------------------------------------------------------------
+
+Silver Mail + Mirror Shield + Mirror Shield = Mirror Armor
+
+Who can equip: Hero, Angelo / Sell price: $15,000 / Defense Power +92
+
+Sometimes reflects spells cast at the wearer ally and enemy.
+
+--------------------------------------------------------------------------------
+
+Angel Robe + Gold Rosary + Shimmering Dress = Princess Robe
+
+Who can equip: Jessica / Sell price: $36,000 / Defense Power +94
+
+Magic attacks against the wearer are reduced by 30 points.
+
+--------------------------------------------------------------------------------
+
+Bandit Mail + Mighty Armlet + Mighty Armlet = Gigant Armor
+
+Who can equip: Yangus / Sell price: $9,000 / Defense Power +95
+
+Fire, ice, and magic attacks against the wearer are reduced by 30 points.
+
+--------------------------------------------------------------------------------
+
+Dangerous Bustier + Shimmering Dress = Divine Bustier
+
+Who can equip: Jessica / Sell price: $37,000 / Defense Power +105
+
+Changes Jessica's appearance.
+
+--------------------------------------------------------------------------------
+
+Liquid Metal Armor + Slime Crown + Orichalcum = Metal King Armor
+
+Who can equip: All characters / Sell price: $5,000 / Defense Power +120
+
+Protects the wearer against magic and breath attacks
+
+--------------------------------------------------------------------------------
+
+
++Shield
+
+
+Pot Lid + Magic Beast Hide = Leather Shield
+
+Who can equip: Hero, Yangus, Angelo / Sell price: $35 / Defense Power +4
+
+--------------------------------------------------------------------------------
+
+Leather Shield + Dragon Scale = Scale Shield
+
+Who can equip: All characters / Sell price: $90 / Defense Power +7
+
+--------------------------------------------------------------------------------
+
+Leather Shield + Bronze Knife = Bronze Shield
+
+Who can equip: Hero, Yangus  / Sell price: $185 / Defense Power +10
+
+--------------------------------------------------------------------------------
+
+Templar's Uniform + Iron Shield = Templar's Shield
+
+Who can equip: Angelo / Sell price: $875 / Defense Power +14
+
+Fire, ice, and magic attacks against the wearer are reduced by 5 points.
+
+--------------------------------------------------------------------------------
+
+Iron Shield + Silver Platter = White Shield
+
+or
+
+Light Shield + Fresh Milk + Fresh Milk = White Shield
+
+Who can equip: Jessica, Angelo / Sell price: $1,800 / Defense Power +24
+
+Fire attacks against the wearer are reduced by 10 points.
+
+--------------------------------------------------------------------------------
+
+Steel Shield + Ruby of Protection + Prayer Ring = Magic Shield
+
+Who can equip: Hero, Angelo / Sell price: $2,500 / Defense Power +27
+
+Magic attacks against the wearer are reduced by 15 points.
+
+--------------------------------------------------------------------------------
+
+Steel Shield + Dragon Scale + Dragon Scale = Dragon Shield
+
+Who can equip: Hero, Yangus / Sell price: $3,450 / Defense Power +30
+
+Fire and ice attacks against the wearer are weakened.
+
+--------------------------------------------------------------------------------
+
+Magic Shield + Icicle Dirk = Ice Shield
+
+Who can equip: Hero, Angelo / Sell price: $4,300 / Defense Power +33
+
+Use as an item in battle to make ice attacks against the party weakened.
+
+--------------------------------------------------------------------------------
+
+Magic Shield + Flametang Boomerang = Flame Shield
+
+Who can equip: Yangus, Jessica / Sell price: $3,550 / Defense Power +34
+
+Use as an item in battle to make fire attacks against the party weakened.
+
+--------------------------------------------------------------------------------
+
+Magic Shield + Strength Ring + Cured Cheese = Power Shield
+
+Who can equip: Hero, Yangus, Angelo / Sell price: $9,000 / Defense Power +38
+
+Casts Healmore on the user when used as an item in battle.
+
+--------------------------------------------------------------------------------
+
+Mirror Shield + White Shield + Holy Water = Saintless Shield
+
+Who can equip: Jessica / Sell price: $28,000 / Defense Power +46
+
+Fire and ice attacks against the wearer are reduced by 2/3.
+
+--------------------------------------------------------------------------------
+
+Mirror Shield + Amor Seco Essense + Magic water = Silver Shield
+
+Who can equip: Hero, Yangus, Angelo / Sell price: $16,000 / Defense Power +48
+
+Fire attacks against the wearer are reduced by 20 points.
+
+--------------------------------------------------------------------------------
+
+Metal King Shield + Devil's Tail = Ruinous Shield
+
+Who can equip: Hero, Yangus, Angelo / Sell price: $2,900 / Defense Power +50
+
+Cursed.  Note that the Hero is not affected by equipment curses.
+
+--------------------------------------------------------------------------------
+
+Goddess Shield + Devil's Tail = Thantos' Shield
+
+Who can equip: Hero, Yangus, Angelo / Sell price: $3,650 / Defense Power +55
+
+Cursed.  Note that the Hero is not affected by equipment curses.
+
+--------------------------------------------------------------------------------
+
+Thantos' Shield + Saint's Ashes = Goddess Shield
+
+Who can equip: Jessica, Angelo / Sell price: $47,500 / Defense Power +55
+
+Fire, ice, and magic attacks against the wearer are reduced by 1/2.
+
+--------------------------------------------------------------------------------
+
+Ruinous Shield + Saint's Ashes + Orichalcum = Metal King Shield
+
+Who can equip: All characters / Sell price: $5,000 / Defense Power +65
+
+Fire, ice, and magic attacks against the wearer are reduced by 30 points.
+
+--------------------------------------------------------------------------------
+
+
++Helmet
+
+
+Leather Hat + Iron Nail = Pointy Hat
+
+Who can equip: Yangus / Sell price: $35 / Defense Power +7
+
+--------------------------------------------------------------------------------
+
+Bandana + Bandana = Turban
+
+Who can equip: Hero, Yangus / Sell price: $205 / Defense Power +8
+
+--------------------------------------------------------------------------------
+
+Chimaera Wing + Leather Hat = Feathered Cap
+
+Who can equip: All characters / Sell price: $200 / Defense Power +9
+
+--------------------------------------------------------------------------------
+
+Hairband + Bunny Tail = Bunny Ears
+
+Who can equip: Jessica / Sell price: $450 / Defense Power +14
+
+--------------------------------------------------------------------------------
+
+Stone Axe + Pointy Hat = Stone Hard Hat
+
+Who can equip: Yangus / Sell price: $435 / Defense Power +15
+
+--------------------------------------------------------------------------------
+
+Feathered Cap + Fur Poncho = Fur Hood
+
+Who can equip: Hero, Yangus / Sell price: $700 / Defense Power +18
+
+--------------------------------------------------------------------------------
+
+Feathered Cap + Mercury's Bandana = Hermes' Hat
+
+Who can equip: All characters / Sell price: $1,400 / Defense Power +20
+
+Use outside of battle to warp to previously visited areas.
+
+--------------------------------------------------------------------------------
+
+Stone Hard Hat + Bronze Knife + Bronze Knife = Bronze Helmet
+
+Who can equip: Hero, Angelo / Sell price: $825 / Defense Power +20
+
+--------------------------------------------------------------------------------
+
+Agility Ring + Bandana = Mercury's Bandana
+
+Who can equip: Hero / Sell price: $2,000 / Defense Power +23 Agility +15
+
+--------------------------------------------------------------------------------
+
+Coral Hairpin + Silver Platter = Silver Tiara
+
+Who can equip: Jessica / Sell price: $725 / Defense Power +24
+
+--------------------------------------------------------------------------------
+
+Feathered Cap + Elevating Shoes = Happy Hat
+
+Who can equip: Jessica, Angelo / Sell price: $10,000 / Defense Power +31
+
+Restore MP as you walk on the overworld map and in dungeons.
+
+--------------------------------------------------------------------------------
+
+Magical Hat + Scholar's Specs = Scholar's Cap
+
+Who can equip: Jessica, Angelo / Sell price: $5,750 / Defense Power +33 / 
+Intelligence +10
+
+--------------------------------------------------------------------------------
+
+Mithril Helm + Devil's Tail = Hade's Helm
+
+Who can equip: Hero, Yangus / Sell price: $4,250 / Defense Power +33
+
+Cursed.  Note that the Hero is not affected by equipment curses.
+
+--------------------------------------------------------------------------------
+
+Scholar's Cap + Iron Headgear = Thinking Cap
+
+Who can equip: Jessica, Angelo / Sell price: $6,500 / Defense Power +38 / 
+Intelligence +15
+
+--------------------------------------------------------------------------------
+
+Hade's Helm + Saint's Ashes = Mithril Helm
+
+Who can equip: Hero, Angelo / Sell price: $8,800 / Defense Power +38
+
+--------------------------------------------------------------------------------
+
+Mithril Helm + Cowpat + Fresh Milk = Raging Bull Helmet
+
+Who can equip: Hero, Yangus / Sell price: $16,500 / Defense Power +42
+
+--------------------------------------------------------------------------------
+
+Thinking Cap + Silver Tiara + Gold Nugget = Golden Tiara
+
+Who can equip: Jessica / Sell price: $26,000 / Defense Power +43
+
+--------------------------------------------------------------------------------
+
+Iron Headgear + Dark Robe = Phantom Mask
+
+Who can equip: Angelo / Sell price: $29,000 / Defense Power +48
+
+--------------------------------------------------------------------------------
+
+Sun Crown + Devil's Tail = Skull Helmet
+
+Who can equip: Yangus / Sell price: $4,500 / Defense Power +49 / Cursed.
+
+--------------------------------------------------------------------------------
+
+Skull Helmet + Saint's Ashes = Sun Crown
+
+Who can equip: Hero, Jessica / Sell price: $37,000 / Defense Power +52
+
+Protects against  Sleep and Chaos spells.
+
+--------------------------------------------------------------------------------
+ 
+
++Accessories
+
+
+Seed of Strength + Prayer Ring = Strength Ring
+
+Who can equip: All characters / Sell price: $325 / Attack Power +5
+
+--------------------------------------------------------------------------------
+
+Strength Ring + Leather Kilt = Titan Belt
+
+Who can equip: All characters / Sell price: $1,500 / Attack Power +10
+
+--------------------------------------------------------------------------------
+
+Strength Ring + Titan Belt = Mighty Armlet
+
+Who can equip: All characters / Sell price: $4,500 / Attack Power +15
+
+--------------------------------------------------------------------------------
+
+Recovery Ring + Gold Bracer = Life Bracer
+
+Who can equip: All characters / Sell price: $7,000 / Defense Power +5 / 
+Max HP +30
+
+--------------------------------------------------------------------------------
+
+Seed of Magic + Gold Ring = Prayer Ring
+
+Who can equip: All characters / Sell price: $1,500 / Defense Power +5
+
+Restores about 30MP when used as an item, but can break after any use.
+
+--------------------------------------------------------------------------------
+
+Gold Ring + Sandstorm Spear = Ring of Truth
+
+Who can equip: All characters / Sell price: $700 / Defense Power +10 / Protects
+against Surround
+
+--------------------------------------------------------------------------------
+
+Gold Ring + Poison Needle = Ring of Immunity
+
+Who can equip: All characters / Sell price: $750 / Defense Power +10
+
+Protects against Poison and Heavily Poisoned
+
+--------------------------------------------------------------------------------
+
+Holy Water + Gold Rosary + Tough Guy Tattoo = Holy Talisman
+
+Who can equip: All characters / Sell price: $2,400 / Defense Power +10 / 
+Protects against Death
+
+--------------------------------------------------------------------------------
+
+Gold Ring + Poison Moth Knife = Full Moon Ring
+
+Who can equip: All characters / Sell price: $600 / Defense Power +10 / Protects
+against Paralyze
+
+--------------------------------------------------------------------------------
+
+Gold Ring + Dream Blame = Ring of Awakening
+
+Who can equip: All characters / Sell price: $550 / Defense Power +10 / Protects
+against Sleep
+
+--------------------------------------------------------------------------------
+
+Gold Ring + Fallen Angel Rapier = Ring of Clarity
+
+Who can equip: All characters / Sell price: $650 / Defense Power +10 / Protects
+against Confuse
+
+--------------------------------------------------------------------------------
+
+Prayer Ring + Seed of Life = Recovery Ring
+
+Who can equip: All characters / Sell price: $4,800 / Defense Power +15 / 
+Recover HP as you walk.
+
+--------------------------------------------------------------------------------
+
+Full Moon Ring + Ring of Immunity + Ring of Truth = Catholicon Ring
+
+Who can equip: All characters / Sell price: $18,000 / Defense Power +15
+
+Protects against  Sleep,  Paralyze, and Confuse
+
+--------------------------------------------------------------------------------
+
+Seed of Defense + Prayer Ring = Ruby of Protection
+
+Who can equip: All characters / Sell price: $1,550 / Defense Power +15
+
+--------------------------------------------------------------------------------
+
+Fishnet Stockings + Happy Hat = Elevating Shoes
+
+Who can equip: All characters / Sell price: $50 / Agility +5
+
+Gain Experience as you walk on the overworld map and in dungeons.
+
+--------------------------------------------------------------------------------
+
+Seed of Agility + Prayer Ring = Agility Ring
+
+Who can equip: All characters / Sell price: $1,550 / Agility +15
+
+--------------------------------------------------------------------------------
+
+Agility Ring + Agility Ring + Orichalcum = Meteorite Bracer
+
+Who can equip: All characters / Sell price: $2,500 / Agility +50
+
+--------------------------------------------------------------------------------
+
+Sorcerer's Ring + Devil's Tail = Skull Ring
+
+Who can equip: Yangus, Jessica, Angelo / Sell price: $425 / Agility +15 / 
+Cursed
+
+--------------------------------------------------------------------------------
+
+Skull Ring + Saint's Ashes + Saint's Ashes = Sorcerer's Ring
+
+Who can equip:  / Sell price: $7,250 / Intelligence +10 Max MP +30
+
+--------------------------------------------------------------------------------
+
+Seed of Wisdom + Ring of Awakening + Ring of Clarity = Scholar's Specs
+
+Who can equip: All characters / Sell price: $1,350 / Intelligence +15
+
+--------------------------------------------------------------------------------
+
+Recovery Ring + Golden Tiara + Orichalcum = Goddess Ring
+
+Who can equip: All characters / Sell price: $25,500 / Intelligence +20 / 
+Recover MP as you walk.
+
+--------------------------------------------------------------------------------
+
+
++Item/Tool
+
+Medicinal Herb + Medicinal Herb = Strong Medicine
+
+Restores about 50HP to a party member.
+
+--------------------------------------------------------------------------------
+
+Strong Medicine + Strong Medicine = Special Medicine
+
+Restores about 90HP to a party member.
+
+--------------------------------------------------------------------------------
+
+Medicinal Herb + Medicinal Herb + Medicinal Herb = Rose Root
+
+or
+
+Medicinal Herb + Strong Medicine = Rose Root
+
+Restores about 70HP to a party member. Efficiency depends on which Alchemy Pot
+you currently have.
+
+--------------------------------------------------------------------------------
+
+Holy Water + Strong Medicine = Amor Seco Essense
+
+Restores about 60HP to a party member.
+
+--------------------------------------------------------------------------------
+
+Medicinal Herb + Antidotal Herb = Strong Antidote
+
+Cures Poison and Heavily Poisoned status, and heals about 30HP to a party 
+member.
+
+--------------------------------------------------------------------------------
+
+Medicinal Herb + Antidotal Herb + Antidotal Herb = Special Antidote
+
+or
+
+Strong Antidote + Strong Antidote = Special Antidote
+
+
+Cures Poison and Heavily Poisoned status, and heals about 60HP to a party 
+member. 
+
+--------------------------------------------------------------------------------
+
+Medicinal Herb + Medicinal Herb + Moonwort Bulb = Rose-Wort
+
+or
+
+Strong Medicine + Moonwort Bulb = Rose-Wort
+
+Cures Paralyze status, and heals about 60HP to a party member in battle.  
+Efficiency depends on which Alchemy Pot you currently have.
+
+--------------------------------------------------------------------------------
+
+Moonwort Bulb + Moonwort Bulb + Moonwort Bulb = Moon's Mercy
+
+Cures  Paralyze status, and heals about 110HP to a party member in battle.
+
+--------------------------------------------------------------------------------
+
+Special Medicine + Special Medicine = Lesser Panacea
+
+Cures Poison,  Heavily Poisoned,  Paralyze status, and heals all HP to a party
+member in battle.
+
+--------------------------------------------------------------------------------
+
+Special Medicine + Special Medicine + Special Medicine = Greater Panacea
+
+or
+
+Rose Root + Rose-Wort + Lesser Panacea = Greater Panacea
+
+Cures all status ailments except death, and heals all HP to a party member in
+battle.
+
+--------------------------------------------------------------------------------
+
+Magic water + Yggdrasil Leaf = Yggdrasil Dew
+
+Recover all HP to all party members.
+
+--------------------------------------------------------------------------------
+
+Holy Water + Seed of Magic = Magic water
+
+Recover about 30MP to a party member.
+
+--------------------------------------------------------------------------------
+
+Magic water + Yggdrasil Dew = Elfin Elixir
+
+Recover all MP to a party member.
+
+--------------------------------------------------------------------------------
+
+Amor Seco Essense + Rock Salt = Holy Water
+
+Keeps weak monsters away, in dungeons and on the overworld map.
+
+--------------------------------------------------------------------------------
+
+Wing of Bat + Wing of Bat = Chimaera Wing
+
+Same effect as Zoom spell; warps you to a previously visited location.
+
+--------------------------------------------------------------------------------
+
+Medicinal Herb + Antidotal Herb + Moonwort Bulb = Mystifying Mixture
+
+or
+
+Holy Water + Cowpat + Wing of Bat = Mystifying Mixture
+
+Cures Confuse on a party member. 
+
+--------------------------------------------------------------------------------
+
+Gold Nugget + Orichalcum + Yggdrasil Dew = Sage's Stone
+
+Casts Multiheal when used as an item in battle.
+
+--------------------------------------------------------------------------------
+
+Sun Crown + Magic Beast Hide + Tough Guy Tattoo = Timbrel of Tension
+
+Increases the party's Tension by 5, 20, 50, then 100 when used as an item in 
+battle.
+
+--------------------------------------------------------------------------------
+
+Fresh Milk + Rennet Powder = Plain Cheese
+
+or
+
+Scorching Cheese + C-C-Cool Cheese = Plain Cheese
+
+Munchie breathes  Fire Breath when used as an item in battle. 
+
+--------------------------------------------------------------------------------
+
+Plain Cheese + Red Mould = Spicy Cheese
+
+Munchie breathes  Blazing Flame when used as an item in battle.
+
+--------------------------------------------------------------------------------
+
+Spicy Cheese + Red Mould + Red Mould = Super Spicy Cheese
+
+or
+
+Spicy Cheese + Nook Grass = Super Spicy Cheese
+
+Munchie breathes Violent Flames when used as an item in battle.
+
+--------------------------------------------------------------------------------
+
+Super Spicy Cheese + Premium Mould + Dragon Dung = Scorching Cheese
+
+Munchie breathes Red Hot Fire when used as an item in battle.
+
+--------------------------------------------------------------------------------
+
+Plain Cheese + Waterweed Mould = Cool Cheese
+
+Munchie breathes Cold Breath when used as an item in battle.
+
+--------------------------------------------------------------------------------
+
+Cool Cheese + Waterweed Mould = Chilly Cheese
+
+Munchie breathes Frozen Breath when used as an item in battle.
+
+--------------------------------------------------------------------------------
+
+Chilly Cheese + Waterweed Mould + Waterweed Mould = Cold Cheese
+
+Munchie breathes a Frozen Blizzard when used as an item in battle.
+
+--------------------------------------------------------------------------------
+
+Cold Cheese + Premium Mould + Dragon Dung = C-C-Cool Cheese
+
+Munchie breathes Steadily Rumbling Shiny Ice Breath when used as an item in 
+battle.
+
+--------------------------------------------------------------------------------
+
+Plain Cheese + Amor Seco Essense = Mild Cheese
+
+Munchie breathes healing breath that heals about 30HP to all party members when
+used as an item in battle.
+
+--------------------------------------------------------------------------------
+
+Fresh Milk + Premium Mould + Amor Seco Essense = Cured Cheese
+
+Munchie breathes healing breath that heals about 100HP to all party members 
+when used as an item in battle.
+
+--------------------------------------------------------------------------------
+
+Fresh Milk + Premium Mould + Yggdrasil Dew = Angel Cheese
+
+Munchie breathes breath that casts Zing on the party when used as an item in
+battle.
+
+--------------------------------------------------------------------------------
+
+Plain Cheese + Rock Salt = Hard Cheese
+
+Munchie breathes breath that casts Kabuff on the party when used as an item 
+in battle.
+
+--------------------------------------------------------------------------------
+
+Fresh Milk + Rennet Powder + Rock Salt = Soft Cheese
+
+Munchie breathes breath that casts Sap on an enemy when used as an item in 
+battle.
+
+--------------------------------------------------------------------------------
+
+Plain Cheese + Magic water = Chunky Cheese
+
+Munchie breathes breath that casts Barrier on the party when used as an item 
+in battle.
+
+--------------------------------------------------------------------------------
+
+Super Spicy Cheese + Cold Cheese + Rock Salt = Highly-Strung Cheese
+
+Munchie breathes breath that increases the party's Tension to the next increment
+when used as an item in battle.
+
+--------------------------------------------------------------------------------
+
+Red Mould + Waterweed Mould + Yggdrasil Leaf = Premium Mould
+
+Used for mixing items.
+
+--------------------------------------------------------------------------------
+
+Bronze Knife + Iron Nail = Thief's Key
+
+Opens some locked chests early on in the game.

@@ -1,0 +1,30 @@
+img
+{
+	border: 0;
+}
+
+body
+{
+	background: #FFFFFF;
+	font-size: 12px;
+	font-family: tahoma, verdana, sans-serif;
+}
+
+table
+{
+	border-spacing: 0;
+}
+
+td
+{
+	font-size: 12px;
+	font-family: tahoma, verdana, sans-serif;
+}
+
+a
+{
+	color: #000040;
+	text-decoration: underline;
+}
+
+
